@@ -1,4 +1,4 @@
-# Mastering Machine Learning on AWS
+# PyTorch 1.0 Reinforcement Learning Cookbook
 
 <a href="https://www.packtpub.com/in/data/pytorch-1-0-reinforcement-learning-cookbook"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838551964-original.jpeg" alt="PyTorch 1.x Reinforcement Learning Cookbook" height="256px" align="right"></a>
 
