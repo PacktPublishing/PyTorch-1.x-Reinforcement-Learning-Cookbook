@@ -2,9 +2,9 @@
 
 <a href="https://www.packtpub.com/in/data/pytorch-1-0-reinforcement-learning-cookbook"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838551964-original.jpeg" alt="PyTorch 1.x Reinforcement Learning Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [Mastering Machine Learning on AWS](https://www.packtpub.com/in/big-data-and-business-intelligence/mastering-machine-learning-aws), published by Packt.
+This is the code repository for [PyTorch 1.x Reinforcement Learning Cookbook](https://www.packtpub.com/in/data/pytorch-1-0-reinforcement-learning-cookbook), published by Packt.
 
-**Advanced machine learning in Python using SageMaker, Apache Spark, and TensorFlow**
+**Over 60 recipes to design, develop, and deploy self-learning AI models using Python**
 
 ## What is this book about?
 	
