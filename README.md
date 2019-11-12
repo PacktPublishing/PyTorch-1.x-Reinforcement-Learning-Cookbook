@@ -45,7 +45,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838551964_ColorImages.pdf).
 
-### Related products
+## Related products
 * Hands-On Reinforcement Learning with Python [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/hands-reinforcement-learning-python) [[Amazon]](https://www.amazon.in/Hands-Reinforcement-Learning-Python-reinforcement/dp/1788836529)
 
 * Python Reinforcement Learning Projects [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/python-reinforcement-learning-projects) [[Amazon]](https://www.amazon.in/Python-Reinforcement-Learning-Projects-hands/dp/1788991613)
