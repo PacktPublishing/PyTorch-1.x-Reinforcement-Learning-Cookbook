@@ -37,7 +37,7 @@ The code will look like the following:
 Machine learning engineers, data scientists and AI researchers looking for quick solutions to different reinforcement learning problems will find this book useful. Although prior knowledge of machine learning concepts is required, experience with PyTorch will be useful but not necessary.	
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-9).
-### Software and Hardware List
+## Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | All | Python 3.7 or higher | Windows, Mac OS X, and Linux (Any) |
