@@ -8,7 +8,7 @@ This is the code repository for [Mastering Machine Learning on AWS](https://www.
 
 ## What is this book about?
 	
-Reinforcement learning (RL) is a branch of machine learning that has gained popularity in recent times. It allows you to train AI models that learn from their own actions and optimize their behavior. PyTorch has also emerged as the preferred tool for training RL models because of its efficiency and ease of use.
+This book presents practical solutions to the most common reinforcement learning problems. The recipes in this book will help you understand the fundamental concepts to develop popular RL algorithms. You will gain practical experience in the RL domain using the modern offerings of the PyTorch 1.x library.
 
 This book covers the following exciting features:
 * Use Q-learning and the state–action–reward–state–action (SARSA) algorithm to solve various Gridworld problems
@@ -18,13 +18,13 @@ This book covers the following exciting features:
 * Select and build RL models, evaluate their performance, and optimize and deploy them
 * Use policy gradient methods to solve continuous RL problems
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Mastering-Machine-Learning-AWS-TensorFlow/dp/1789349796) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838551964) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. 
 
 The code will look like the following:
 ```
@@ -34,16 +34,16 @@ The code will look like the following:
 ```
 
 **Following is what you need for this book:**
-This book is for data scientists, machine learning developers, deep learning enthusiasts and AWS users who want to build advanced models and smart applications on the cloud using AWS and its integration services. Some understanding of machine learning concepts, Python programming and AWS will be beneficial.	
+Machine learning engineers, data scientists and AI researchers looking for quick solutions to different reinforcement learning problems will find this book useful. Although prior knowledge of machine learning concepts is required, experience with PyTorch will be useful but not necessary.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-9).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| All | Python 3.6 or higher | Windows, Mac OS X, and Linux (Any) |
-| All | Jupyter notebook | Windows, Mac OS X, and Linux (Any) |
+| All | Python 3.7 or higher | Windows, Mac OS X, and Linux (Any) |
+| All | PyTorch 1.x | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789349795_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781838551964_ColorImages.pdf).
 
 ### Related products
 * Hands-On Reinforcement Learning with Python [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/hands-reinforcement-learning-python) [[Amazon]](https://www.amazon.in/Hands-Reinforcement-Learning-Python-reinforcement/dp/1788836529)
@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Yuxi (Hayden) Liu** is an experienced data scientist who's focused on developing machine learning and deep learning models and systems. He has worked in a variety of data-driven domains and has applied his expertise in reinforcement learning to computational. He is an education enthusiast and the author of a series of ML books. His first book, Python Machine Learning By Example, was a #1 bestseller on Amazon India in 2017 and 2018. His other books include R Deep Learning Projects and Hands-On Deep Learning Architectures with Python published by Packt. He also published five first-authored IEEE transaction and conference papers during his master's research at the University of Toronto.
 
 
-### Suggestions and Feedback
+## Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
 
