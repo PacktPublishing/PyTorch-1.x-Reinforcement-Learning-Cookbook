@@ -87,11 +87,11 @@ def reinforce(env, estimator, n_episode, gamma=1.0):
                 returns = []
 
                 Gt = 0
-                pw = 0
+                #pw = 0
 
                 for reward in rewards[::-1]:
-                    Gt += gamma ** pw * reward
-                    pw += 1
+                    Gt = Gt + gamma * reward
+                    #pw += 1
                     returns.append(Gt)
 
                 returns = returns[::-1]
