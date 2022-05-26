@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B13655?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # PyTorch 1.0 Reinforcement Learning Cookbook
 
 <a href="https://www.packtpub.com/in/data/pytorch-1-0-reinforcement-learning-cookbook"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838551964-original.jpeg" alt="PyTorch 1.x Reinforcement Learning Cookbook" height="256px" align="right"></a>
