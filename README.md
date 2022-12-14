@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781838551964)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # PyTorch 1.0 Reinforcement Learning Cookbook
 
 <a href="https://www.packtpub.com/in/data/pytorch-1-0-reinforcement-learning-cookbook"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838551964-original.jpeg" alt="PyTorch 1.x Reinforcement Learning Cookbook" height="256px" align="right"></a>
